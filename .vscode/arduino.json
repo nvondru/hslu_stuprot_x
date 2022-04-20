@@ -1,5 +1,5 @@
 {
-    "sketch": "Sketches/Test.ino",
+    "sketch": "Sketches/StuprotX_Nicolas.ino",
     "board": "arduino:avr:uno",
-    "port": "/dev/tty.usbmodem113101"
+    "port": "/dev/tty.usbmodem213101"
 }
